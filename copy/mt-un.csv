@@ -1,0 +1,188 @@
+﻿cs_rank_in_scope,university,country,score_2020_25,active_sec_se_faculty,top_candidate_professors,in_tracker,gre_screen,gre_evidence,funding_evidence,deadline,how_checked
+100,University of Connecticut,US,55.9,6,"Yuan Hong (sec 13, SE 0); Tingting Yu (sec 0, SE 8); Alexander Russell (sec 7, SE 0); Benjamin Fuller (sec 4, SE 0)",YELLOW,see tracker,,,,
+101,University of Florida,US,55.7,5,"Kevin R. B. Butler (sec 20, SE 0); Patrick Traynor (sec 18, SE 0); Sara Rampazzi (sec 8, SE 0); Thomas Shrimpton (sec 4, SE 0)",YELLOW,see tracker,,,,
+102,University of Bristol,GB,55.0,3,"Awais Rashid (sec 3, SE 2); Kopo M. Ramokapane (sec 3, SE 0); Cristina David (sec 0, SE 2)",,"RED-lean (summary): master's merit normally required; international funding competitive; fees GBP 27,500",,,,search summary only
+103,Queen Mary University of London,GB,54.0,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+104,University of Manchester,GB,53.3,4,"Lucas C. Cordeiro (sec 0, SE 2); Zhipeng Wang (sec 2, SE 0); Pierre Olivier (sec 2, SE 0); Giles Reger (sec 0, SE 2)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+105,TTI Chicago,US,52.2,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+106,Iowa State University,US,51.9,9,"Wei Le (sec 0, SE 12); Amit Kumar Sikder (sec 5, SE 0); Meisam Mohammady (sec 3, SE 0); Chenglin Miao (sec 3, SE 0)",,NOT SCREENED (weak faculty match),,,,
+107,University of Sheffield,GB,50.4,2,"Behzad Abdolmaleki (sec 3, SE 0); Robert M. Hierons (sec 0, SE 2)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+108,University of Liverpool,GB,49.7,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+109,Worcester Polytechnic Institute,US,49.3,2,"Xiaozhong Liu (sec 7, SE 0); Robert J. Walls (sec 4, SE 0)",,RED (search summary),not required but recommended for funding seekers,,,search summary only
+110,Clemson University,US,48.4,3,"Long Cheng (sec 12, SE 0); Zhenkai Zhang (sec 7, SE 0); Xiaolong Ma (sec 2, SE 0)",,NOT SCREENED (weak faculty match),,,,
+111,UNC - Charlotte,US,47.7,1,"Chenglong Fu (sec 3, SE 0)",,NOT SCREENED (weak faculty match),,,,
+112,Tufts University,US,47.1,1,"Daniel Votipka (sec 14, SE 0)",,RED (search summary),required for international applicants,,,search summary only
+113,Florida State University,US,46.6,4,"Sonia Haiduc (sec 0, SE 3); Viet Tung Hoang (sec 4, SE 0); Jie Yang (sec 2, SE 0); Xin Liu (sec 2, SE 0)",,UNSAFE (recommended / waiver / conflicting),"CS dept: required unless waiver (needs grad degree or research/3 yrs work, plus funding offer criteria)",,,search summary only
+114,University of Bath,GB,46.4,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+115,University of Georgia,US,45.3,8,"Alessandro Orso (sec 0, SE 12); Le Guan (sec 6, SE 3); Roberto Perdisci (sec 7, SE 0); Zion Leonahenahe Basque (sec 6, SE 0)",YELLOW,see tracker,,,,
+116,Griffith University,AU,45.1,3,"Leo Yu Zhang (sec 7, SE 0); Shirui Pan (sec 3, SE 0); Zhe Hou (sec 0, SE 2)",,RED (summary): international scholarship needs first-class honours plus master's equivalent,,,,search summary only
+117,University of Delaware,US,45.0,4,"Xing Gao (sec 10, SE 0); Mingyuan Wang (sec 4, SE 0); Satwik Patnaik (sec 3, SE 0); Xu Yuan (sec 3, SE 0)",YELLOW,see tracker,,,,
+118,University of Pittsburgh,US,43.7,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+119,University of South Florida,US,43.3,5,"Yao Liu (sec 6, SE 0); Amit Seal Ami (sec 4, SE 0); Kaushal Kafle (sec 5, SE 0); Attila A. Yavuz (sec 3, SE 0)",,NOT SCREENED (weak faculty match),,,,
+120,University of Arizona,US,41.3,3,"Sazzadur Rahaman (sec 2, SE 2); Quinn Burke (sec 3, SE 0); Zhuolin Yang (sec 3, SE 0)",RED,see tracker,,,,
+121,Lancaster University,GB,39.9,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+122,Binghamton University,US,37.0,6,"Yu David Liu (sec 3, SE 4); Zhaohan Xi (sec 5, SE 0); Adnan Siraj Rakin (sec 5, SE 0); Jeremy Blackburn (sec 5, SE 0)",,UNSAFE (recommended / waiver / conflicting),strongly recommended for PhD and for assistantship consideration,,,search summary only
+123,Polytechnique Montreal,CA,36.8,4,"Heng Li (sec 0, SE 10); Foutse Khomh (sec 0, SE 8); Maxime Lamothe (sec 0, SE 6); Lina Marsso (sec 0, SE 4)",,RED-lean (summary): French language requirement; direct doctorate possible,,,,search summary only
+124,Washington State University,US,36.7,3,"Basavesh Ammanaghatta Shivakumar (sec 3, SE 0); Feng-Hao Liu (sec 2, SE 0); Xu Lin (sec 3, SE 0)",,UNSAFE (official page: waiver stated for Fall 2022 only),'We are waiving the GRE requirement for Fall 2022 applications','not all admitted students will be offered funding',Fall priority Jan 10,official page via fetch summary
+125,York University,CA,34.8,4,"Song Wang (sec 0, SE 13); Gias Uddin (sec 0, SE 4); Hung Viet Pham (sec 0, SE 5); Hadi Hemmati (sec 0, SE 2)",,RED-lean (summary): Master's required for EECS PhD; GRE strongly recommended for some fields,,,,search summary only
+126,Wayne State University,US,34.5,3,"Yi Zhu (sec 6, SE 0); RhongHo Jang (sec 4, SE 0); Amiangshu Bosu (sec 0, SE 2)",,RED (search summary),"required, cannot be waived",,,search summary only
+127,Tulane University,US,34.0,3,"Hridesh Rajan (sec 0, SE 25); Jiang Ming (sec 14, SE 2); Jiyuan Wang (sec 0, SE 6)",YELLOW,see tracker,,,,
+128,University of Auckland,NZ,33.7,2,"Valerio Terragni (sec 0, SE 10); Kelly Blincoe (sec 0, SE 2)",YELLOW⚠,see tracker,,,,
+129,Royal Holloway Univ. of London,GB,31.1,4,"DongGyun Han (sec 0, SE 4); Rikke Bjerg Jensen (sec 3, SE 0); Ezekiel O. Soremekun (sec 0, SE 4); Danilo Francati (sec 2, SE 0)",,RED-lean (summary): 2:1 plus usually a master's; funding for international students described as extremely difficult,,,,search summary only
+130,Queensland Univ. of Technology,AU,30.6,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+131,Drexel University,US,30.2,4,"Preetha Chatterjee (sec 0, SE 5); Kaidi Xu (sec 2, SE 0); Zhibo Sun (sec 4, SE 0); Yuanfang Cai (sec 0, SE 2)",,UNSAFE (recommended / waiver / conflicting),optional but highly recommended for international applicants,,,search summary only
+132,Lehigh University,US,30.2,1,"Lichao Sun (sec 5, SE 1)",YELLOW,LEAD: GRE OK (official page),'GRE is NOT required/considered',aid consideration needs application by Dec 15; no guarantee text,Dec 15 (aid),official page via fetch summary
+133,University of Oregon,US,29.5,1,"Yingjiu Li (sec 5, SE 0)",,LEAD: GRE OK? (search summary only),"conflicting: program says optional, third party says required",,,search summary only
+134,Rensselaer Polytechnic Institute,US,29.3,2,"Yao Ma (sec 2, SE 0); Ana L. Milanova (sec 1, SE 1)",,NOT SCREENED (weak faculty match),,,,
+135,University of York,GB,29.2,1,"Radu Calinescu (sec 0, SE 4)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+136,University of Calgary,CA,29.0,5,"Mahmoud Alfadel (sec 0, SE 7); Ryan Henry (sec 4, SE 0); Zongpeng Li (sec 2, SE 1); Benjamin Tan (sec 3, SE 0)",YELLOW,GRE for PhD NOT VERIFIED; non-US,'GRE scores' listed as applicable,"summary: about CAD 24,000/yr","Fall 2027 intl Jan 15 early, Mar 1 final",official page via fetch summary
+137,Temple University,US,28.9,2,"Yan Wang (sec 4, SE 0); Xiaojiang Du (sec 6, SE 0)",YELLOW,LEAD: GRE OK (official page),'GRE: Optional','Assistantships provide a stipend and full-time tuition.',Fall Nov 1,official page via fetch summary
+138,University of Leeds,GB,28.6,1,"Zheng Wang (sec 0, SE 5)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+139,Georgetown University,US,28.1,4,"Elissa M. Redmiles (sec 15, SE 0); Micah Sherr (sec 7, SE 0); Benjamin E. Ujcich (sec 6, SE 0); Muthuramakrishnan Venkitasubramaniam (sec 6, SE 0)",GREEN,LEAD: GRE OK (official page),"FAQ: 'No, we do not require a GRE score in order to apply.'",FAQ: 'every offer of admission to the Ph.D. program includes an offer of financial aid for five years of study',"Priority Dec 15, final Jan 15 (Fall 2027 cycle)",official page via fetch summary
+140,Univ. of Maryland - Baltimore County,US,27.8,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+141,Case Western Reserve University,US,27.3,2,"Sumon Biswas (sec 0, SE 9); Erman Ayday (sec 2, SE 0)",,RED (search summary),required,,,search summary only
+142,University of Southampton,GB,26.5,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+143,University of Victoria,CA,25.9,4,"Daniel M. Germán (sec 0, SE 3); Yun Lu (sec 2, SE 0); Neil A. Ernst (sec 0, SE 2); Kui Wu (sec 2, SE 0)",YELLOW,NOT VERIFIED; non-US; direct entry possible (summary),,,,search summary only
+144,Florida International University,US,25.7,5,"A. Selcuk Uluagac (sec 9, SE 0); Arjun Arunasalam (sec 6, SE 0); Ruimin Sun (sec 5, SE 0); Bogdan Carbunar (sec 4, SE 0)",YELLOW,LEAD: GRE OK (official page),'GRE not required for admission',"'may be considered for teaching assistantships, research assistantships and fellowships' (no guarantee)",not stated,official page via fetch summary
+145,Queen's University Belfast,GB,25.0,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+146,Dalhousie University,CA,25.0,3,"Paul Ralph (sec 0, SE 5); Mohammad Masudur Rahman (sec 0, SE 2); Tushar Sharma (sec 0, SE 2)",YELLOW (warning),"UNSAFE (GRE recommended for international, summary); non-US",,,,search summary only
+147,George Washington University,US,24.5,5,"Adam J. Aviv (sec 19, SE 0); Xiuzhen Cheng (sec 7, SE 0); Arkady Yerukhimovich (sec 4, SE 0); Sibin Mohan (sec 2, SE 0)",YELLOW,LEAD: GRE OK (official page),'The GRE General Test is optional for all applicants.',not on page,Fall Jan 15,official page via fetch summary
+148,University of Massachusetts Lowell,US,24.3,2,"Xinwen Fu (sec 12, SE 0); Tingjian Ge (sec 1, SE 1)",YELLOW,LEAD: GRE OK (official page),GRE listed only for non-CS programs; CS PhD not on the list,'limited number of teaching assistantships and research assistantships',not stated for CS PhD,official page via fetch summary
+149,University of Tennessee,US,24.1,3,"Doowon Kim (sec 7, SE 1); Audris Mockus (sec 0, SE 6); Scott Ruoti (sec 4, SE 0)",,RED (search summary),required for international applicants,,,search summary only
+150,University of Western Australia,AU,24.0,1,"Zhi Zhang (sec 8, SE 0)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+151,University of North Texas,US,22.9,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+152,University of Nebraska,US,22.8,3,"Hamid Bagheri (sec 0, SE 11); Robert Dyer (sec 0, SE 3); Rahul Purandare (sec 0, SE 2)",YELLOW⚠,see tracker,,,,
+153,Auburn University,US,22.8,4,"Ali Ghanbari (sec 0, SE 5); Akond Ashfaque Ur Rahman (sec 1, SE 3); Yazhou Tu (sec 2, SE 0); Sanchuan Chen (sec 2, SE 0)",,NOT SCREENED (weak faculty match),,,,
+154,Illinois Institute of Technology,US,22.7,2,"Binghui Wang (sec 9, SE 0); Yanxue Jia (sec 4, SE 0)",,RED (search summary),required,,,search summary only
+155,ETS Montreal,CA,22.0,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+156,University of Ottawa,CA,21.0,1,"Shiva Nejati (sec 0, SE 4)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+157,University of Texas at San Antonio,US,20.5,3,"Murtuza Jadliwala (sec 8, SE 0); Xiaoyin Wang (sec 1, SE 8); Peyman Najafirad (sec 4, SE 0)",,NOT SCREENED (weak faculty match),,,,
+158,Augusta University,US,19.5,1,"Meikang Qiu (sec 2, SE 0)",,NOT SCREENED (weak faculty match),,,,
+159,University of Iowa,US,19.3,1,"Rishab Nithyanand (sec 2, SE 0)",,NOT SCREENED (weak faculty match),,,,
+160,Université Laval,CA,19.2,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+161,University of Wollongong,AU,18.7,2,"Willy Susilo (sec 5, SE 0); Khanh Hoa Dam (sec 0, SE 2)",,"UNCLEAR (summary): AGRTP stipend A$35,522/yr; B.Sc. entry rules not verified",,,,search summary only
+162,Texas State University,US,18.5,1,"Shibbir Ahmed (sec 0, SE 2)",,NOT SCREENED (weak faculty match),,,,
+163,Carleton University,CA,18.4,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+164,Syracuse University,US,18.3,1,"Yuzhe Tang (sec 4, SE 1)",,UNSAFE (recommended / waiver / conflicting),recommended; optional for Spring and Fall 2027,,,search summary only
+165,University of Houston,US,18.2,1,"Mohammad Amin Alipour (sec 0, SE 2)",,NOT SCREENED (weak faculty match),,,,
+166,University College Dublin,IE,18.0,1,"Mark Huasong Meng (sec 1, SE 4)",YELLOW,see tracker,,,,
+167,CUNY,US,18.0,3,"Tushar M. Jois (sec 5, SE 0); Raffi Khatchadourian (sec 0, SE 3); Anita Raja (sec 0, SE 2)",,RED (search summary),"required, cannot be waived",,,search summary only
+168,University of Nottingham,GB,16.2,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+169,McMaster University,CA,16.2,1,"Mark Lawford (sec 0, SE 2)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+170,Louisiana State University,US,16.1,6,"Phani Vadrevu (sec 5, SE 0); Sayak Saha Roy (sec 3, SE 0); David C. Shepherd (sec 0, SE 3); Elias Bou-Harb (sec 3, SE 0)",YELLOW,LEAD: GRE OK (official page),'GRE scores are optional for both programs.',not on page,"Fall priority Jan 15, final May 15",official page via fetch summary
+171,Colorado School of Mines,US,16.0,2,"Chuan Yue (sec 3, SE 1); Kelsey R. Fulton (sec 4, SE 0)",YELLOW,LEAD: GRE OK (official page),'GRE is waived for CS Grad applicants.',not on page,Fall priority deadline (date not read),official page via fetch summary
+172,University of South Carolina,US,15.9,0,,YELLOW,see tracker,,,,
+173,Colorado State University,US,15.5,2,"Bianca Trinkenreich (sec 0, SE 5); Viktoria Koscinski (sec 1, SE 1)",,NOT SCREENED (weak faculty match),,,,
+174,University of Exeter,GB,15.1,1,"Ke Li (sec 0, SE 6)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+175,University of Kansas,US,15.1,6,"Bo Luo (sec 12, SE 0); Fengjun Li (sec 5, SE 1); Zitao Chen (sec 3, SE 0); Alexandru G. Bardas (sec 4, SE 0)",YELLOW⚠,see tracker,,,,
+176,University of New Hampshire,US,14.7,1,"Dongpeng Xu (sec 3, SE 0)",,NOT SCREENED (weak faculty match),,,,
+177,Queen’s University,CA,14.3,3,"Ahmed E. Hassan (sec 0, SE 13); Ying Zou (sec 0, SE 6); Bram Adams (sec 0, SE 5)",RED,see tracker,,,,
+178,University of Kentucky,US,14.0,1,"Yang Xiao (sec 4, SE 0)",,UNSAFE (recommended / waiver / conflicting),"unclear: optional per one source, scores listed in review criteria",,,search summary only
+179,Heriot-Watt University,GB,13.8,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+180,Durham University,GB,13.6,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+181,University at Albany - SUNY,US,13.5,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+182,City University of London,GB,13.4,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+183,Victoria University of Wellington,NZ,13.3,1,"Jens Dietrich (sec 0, SE 4)",YELLOW,NOT VERIFIED; non-US; Wellington Doctoral Scholarship,,"$32,000 stipend + tuition, 3 years (official)",Rounds 1 Mar / 1 Jul / 1 Nov,official page via fetch summary
+184,University of Cincinnati,US,13.1,2,"Nan Niu (sec 0, SE 8); Yu Zhao (sec 0, SE 2)",,RED (search summary),required for international applicants,,,search summary only
+185,University of Essex,GB,13.1,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+186,University of Memphis,US,12.5,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+187,Brigham Young University,US,12.5,2,"Kent E. Seamons (sec 6, SE 0); Daniel Zappala (sec 4, SE 0)",YELLOW,LEAD: GRE OK (official page),'The GRE is NOT required.','Most admitted PhD students are fully funded.',Dec 15,official page via fetch summary
+188,University of Nevada,US,12.4,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+189,University of Aberdeen,GB,12.3,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+190,Utah State University,US,11.9,1,"Wen Li (sec 3, SE 2)",,UNSAFE (recommended / waiver / conflicting),optional but program expects minimum percentiles,,,search summary only
+191,Texas Tech University,US,11.8,4,"Song Liao (sec 6, SE 0); Zihao Zhan (sec 5, SE 0); Tianxi Ji (sec 2, SE 0); Wei Wang (sec 2, SE 0)",YELLOW (warning),UNSAFE (official page: waived until further notice),'The GRE is waived until further notice.',not on page,not on page,official page via fetch summary
+192,Oakland University,US,11.8,2,"Mohammad Wardat (sec 0, SE 5); Mehdi Bagherzadeh (sec 0, SE 3)",,UNSAFE (recommended / waiver / conflicting),required unless waived (GPA >= 3.5 or 2 yrs US work),,,search summary only
+193,University of Guelph,CA,11.7,3,"Lizhi Liao (sec 0, SE 4); Hassan Khan (sec 4, SE 0); Xiaodong Lin (sec 3, SE 1)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+194,Loughborough University,GB,11.2,2,"Tao Chen (sec 0, SE 11); Chengyu Zhang (sec 0, SE 4)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+195,Brandeis University,US,11.0,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+196,Portland State University,US,10.9,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+197,University of New Mexico,US,10.6,1,"Patrick Gage Kelley (sec 7, SE 0)",,UNCONFIRMED (official page fetched was BS/MS only),optional (older packet required it),,,official page via fetch summary
+198,University of Strathclyde,GB,10.4,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+199,University of Oklahoma,US,10.4,4,"Anindya Maiti (sec 3, SE 0); Yi Wu (sec 2, SE 0); Shangqing Zhao (sec 2, SE 0); Song Fang (sec 2, SE 0)",,WEAK (official page: PhD GRE not stated; assistantships limited),GRE only mentioned for Master's: 'No GRE is required','Graduate assistantships are extremely limited',Fall Apr 1,official page via fetch summary
+200,Boston College,US,10.2,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+201,Kent State University,US,10.2,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+202,Trinity College Dublin,IE,10.1,0,,YELLOW,see tracker,,,,
+203,University of Manitoba,CA,9.9,2,"Shaowei Wang (sec 0, SE 7); Azadeh Tabiban (sec 2, SE 0)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+204,Université du Québec à Montréal,CA,9.7,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+205,University of Arkansas,US,9.5,1,"Alexander Nelson (sec 2, SE 0)",,NOT SCREENED (weak faculty match),,,,
+206,University of Missouri,US,9.2,1,"Rohit Chadha (sec 2, SE 0)",,NOT SCREENED (weak faculty match),,,,
+207,Birkbeck University of London,GB,9.2,1,"Taolue Chen (sec 0, SE 7)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+208,DePaul University,US,8.7,1,"Filipo Sharevski (sec 7, SE 0)",,RED (search summary),"required, cannot be waived",,,search summary only
+209,Univ. of Louisiana - Lafayette,US,8.7,3,"Bhupendra Acharya (sec 4, SE 0); Xiali Hei (sec 2, SE 0); Nian-Feng Tzeng (sec 2, SE 0)",,UNSAFE (recommended / waiver / conflicting),"conflicting: dept optional, catalog says required",,,search summary only
+210,Western University,CA,8.5,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+211,Open University UK,GB,8.4,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+212,West Virginia University,US,8.1,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+213,University of Texas - El Paso,US,8.0,4,"Nan Jiang (sec 2, SE 5); Marcelo F. Frias (sec 0, SE 9); Md. Armanuzzaman (sec 2, SE 0); Mohammad Saidur Rahman (sec 2, SE 0)",,RED (search summary),required,,,search summary only
+214,Michigan Technological University,US,7.8,1,"Yunlong Xing (sec 3, SE 0)",,NOT SCREENED (weak faculty match),,,,
+215,Georgia State University,US,7.6,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+216,University of Massachusetts Boston,US,7.2,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+217,Northern Arizona University,US,7.2,3,"Igor Steinmacher (sec 0, SE 13); Marco Aurélio Gerosa (sec 0, SE 10); Alex Groce (sec 0, SE 3)",,UNSAFE (recommended / waiver / conflicting),recommended; another source says required,,,search summary only
+218,Wichita State University,US,7.2,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+219,Virginia Commonwealth University,US,7.1,2,"Kostadin Damevski (sec 0, SE 5); Hong-Sheng Zhou (sec 3, SE 0)",,RED (search summary),required,,,search summary only
+220,University of Otago,NZ,7.0,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+221,Missouri S&T,US,6.7,1,"Mia Mohammad Imran (sec 0, SE 3)",,NOT SCREENED (weak faculty match),,,,
+222,Massey University,NZ,6.7,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+223,University of Waikato,NZ,6.3,1,"Matthew J. Luckie (sec 2, SE 0)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+224,University of Canterbury,NZ,6.1,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+225,Florida Atlantic University,US,6.0,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+226,University of Nebraska - Omaha,US,5.8,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+227,New York Tech,US,5.7,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+228,University of Michigan-Dearborn,US,5.6,3,"Foyzul Hassan (sec 0, SE 5); Birhanu Eshete (sec 2, SE 0); Ang Li (sec 2, SE 0)",,UNCONFIRMED (official page returned 403),no GRE required,,,official page via fetch summary
+229,Université de Sherbrooke,CA,5.5,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+230,University of Vermont,US,5.3,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+231,University of Sussex,GB,5.3,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+232,UCCS,US,5.2,2,"Shouhuai Xu (sec 3, SE 4); Xi Tan (sec 2, SE 0)",,RED (search summary),required unless US ABET degree,,,search summary only
+233,University of Colorado - Denver,US,5.2,1,"Zhengxiong Li (sec 6, SE 0)",,RED (search summary),GRE or GMAT listed as entrance exam,,,search summary only
+234,University of Hawaii at Manoa,US,5.1,1,"Mehdi Mirakhorli (sec 1, SE 3)",,UNSAFE (recommended / waiver / conflicting),suggested but not required,,,search summary only
+235,IUPUI,US,5.1,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+236,Naval Postgraduate School,US,4.7,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+237,Old Dominion University,US,4.7,1,"Shuai Hao (sec 2, SE 1)",,NOT SCREENED (weak faculty match),,,,
+238,Baylor University,US,4.6,1,"Erika A. Leal (sec 2, SE 0)",,NOT SCREENED (weak faculty match),,,,
+239,The University of Alabama,US,4.5,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+240,University of Kent,GB,4.4,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+241,Univ. of Missouri - Kansas City,US,4.2,1,"Zilong Lin (sec 4, SE 0)",,RED (search summary),minimum 80th percentile quant listed,,,search summary only
+242,University of Dundee,GB,4.2,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+243,Southern Methodist University,US,4.1,2,"LiGuo Huang (sec 0, SE 6); Chen Wang (sec 3, SE 0)",,RED (search summary),required,,,search summary only
+244,Cleveland State University,US,4.1,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+245,University of St Andrews,GB,3.9,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+246,University of Saskatchewan,CA,3.7,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+247,Goldsmiths University of London,GB,3.7,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+248,New Mexico State University,US,3.7,1,"Efrén López-Morales (sec 3, SE 0)",,NOT SCREENED (weak faculty match),,,,
+249,Ohio University,US,3.2,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+250,Boise State University,US,2.9,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+251,University of Rhode Island,US,2.7,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+252,University of Louisville,US,2.7,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+253,Brunel University London,GB,2.5,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+254,University of Mississippi,US,2.5,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+255,University of Tulsa,US,2.4,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+256,University of Denver,US,2.3,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+257,Western Sydney University,AU,2.2,1,"Zhigang Lu (sec 3, SE 0)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+258,University of Regina,CA,2.0,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+259,University of New Brunswick,CA,1.9,0,,RED,see tracker,,,,
+260,Montana State University,US,1.8,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+261,Kansas State University,US,1.8,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+262,University of Nevada Las Vegas,US,1.7,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+263,Maynooth University,IE,1.6,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+264,Memorial Univ. of Newfoundland,CA,1.5,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+265,Nova Southeastern University,US,1.5,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+266,University of Newcastle,AU,1.4,1,"Xiao Chen (sec 0, SE 8)",,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+267,Univ. of Wisconsin - Milwaukee,US,1.4,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+268,Toronto Metropolitan University,CA,1.3,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+269,University of Windsor,CA,1.3,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+270,University of Miami,US,1.1,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+271,Mississippi State University,US,1.0,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+272,Aberystwyth University,GB,1.0,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+273,Towson University,US,0.9,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+274,OHSU,US,0.8,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+275,Oklahoma State University,US,0.8,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+276,University of Southern Mississippi,US,0.8,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+277,Middlesex University,GB,0.7,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+278,University of Alabama - Birmingham,US,0.6,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+279,University of New Orleans,US,0.6,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+280,Brock University,CA,0.5,0,,,NOT CHECKED (GRE rarely asked; direct B.Sc. entry and funding unchecked),,,,
+281,University of Idaho,US,0.4,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+282,Western Michigan University,US,0.3,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+283,University of Wyoming,US,0.3,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+284,Univ. of Arkansas - Little Rock,US,0.3,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+285,Florida Institute of Technology,US,0.3,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
+286,New Mexico Tech,US,0.2,0,,,NOT SCREENED (no active security/SE faculty in CSrankings data),,,,
